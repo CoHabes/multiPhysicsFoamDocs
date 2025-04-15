@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://CoHabes.github.io/multiPhysicsFoamDocs/'
 languageCode = 'en-us'
 title = 'multiPhysicsFoam - Documentation'
 theme = "docsy"
+publishDir = "docs"

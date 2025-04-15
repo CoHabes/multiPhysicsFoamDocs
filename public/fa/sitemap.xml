@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/fa/docs/overview/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/blog/news/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,6 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/blog/releases/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,39 +41,8 @@
                 href="http://localhost:1313/fa/blog/releases/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fa/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/fa/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fa/blog/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/fa/blog/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -117,7 +88,26 @@
                 href="http://localhost:1313/fa/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fa/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/fa/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fa/community/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,7 +119,21 @@
                 href="http://localhost:1313/fa/community/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fa/blog/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/fa/blog/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fa/about/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -142,15 +146,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/docs/"
-                />
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/docs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -159,6 +164,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/search/</loc>
+    <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
