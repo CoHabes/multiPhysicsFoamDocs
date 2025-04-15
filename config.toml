@@ -1,4 +1,6 @@
-baseURL = 'https://CoHabes.github.io/multiPhysicsFoamDocs/'
+baseURL = 'https://cohabes.github.io/multiPhysicsFoamDocs/'
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'multiPhysicsFoam - Documentation'
 theme = "docsy"
