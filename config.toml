@@ -9,8 +9,8 @@ theme = "docsy"
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-canonifyURLs = "true"
+relativeURLs = true
+canonifyURLs = true
 
 # Remote
 baseURL = "https://cohabes.github.io/multiPhysicsFoamDocs/"
