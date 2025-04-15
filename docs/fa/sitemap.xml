@@ -2,183 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.docsy.dev/fa/docs/overview/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/docs/overview/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/docs/overview/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/docs/overview/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/docs/overview/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/docs/overview/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/blog/news/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/news/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/blog/news/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/blog/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/blog/news/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/news/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/blog/releases/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/releases/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/blog/releases/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/blog/releases/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/blog/releases/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/releases/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/blog/2018/10/06/easy-documentation-with-docsy/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/blog/2018/10/06/easy-documentation-with-docsy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/categories/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/categories/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://example.docsy.dev/no/categories/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/no/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/categories/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/categories/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/tags/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/tags/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://example.docsy.dev/no/tags/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/tags/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/tags/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://example.docsy.dev/no/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/community/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/community/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/community/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/community/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/community/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/blog/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/blog/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/blog/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/blog/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/about/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/about/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/about/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/about/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/about/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/docs/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/docs/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/docs/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://example.docsy.dev/no/docs/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/no/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/docs/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/docs/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/fa/search/</loc>
+    <loc>https://cohabes.github.io/multiPhysicsFoamDocs/fa/search/</loc>
     <lastmod>2025-04-15T11:40:10+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/search/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://example.docsy.dev/no/search/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/no/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://example.docsy.dev/fa/search/"
+                href="https://cohabes.github.io/multiPhysicsFoamDocs/fa/search/"
                 />
   </url>
 </urlset>
