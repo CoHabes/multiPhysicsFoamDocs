@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on multiPhysicsFoam - Documentation</title>
+    <title>Blog on multiPhysicsFoam</title>
     <link>https://cohabes.github.io/multiPhysicsFoamDocs/blog/</link>
-    <description>Recent content in Blog on multiPhysicsFoam - Documentation</description>
+    <description>Recent content in Blog on multiPhysicsFoam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://cohabes.github.io/multiPhysicsFoamDocs/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

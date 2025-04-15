@@ -2,7 +2,7 @@
 title: multiPhysicsFoam
 ---
 
-{{< blocks/cover title="Welcome to multiPhysicsFoam" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to multiPhysicsFoam" image_anchor="center" height="full" >}}
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/hmarschall/multiRegionFoam">
   Download Source Code <i class="fab fa-github ms-2 "></i>
 </a>
