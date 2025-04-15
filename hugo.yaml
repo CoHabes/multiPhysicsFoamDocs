@@ -1,14 +1,11 @@
 baseURL: https://cohabes.github.io/multiPhysicsFoamDocs/
 title: multiPhysicsFoam - Documentation
-
-# cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
+description: multiPhysicsFoam - A multiphysics framework for OpenFOAM
 
 # Language settings
-contentDir: content/en
+contentDir: content
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-# Useful when translating.
-enableMissingTranslationPlaceholders: true
 
 enableRobotsTXT: true
 
@@ -41,33 +38,6 @@ imaging:
   resampleFilter: CatmullRom
   quality: 75
   anchor: smart
-
-# Language configuration
-languages:
-  en:
-    languageName: English
-    title: multiPhysicsFoam
-    params:
-      description: multiPhysicsFoam - A multiphysics framework for OpenFOAM
-  # cSpell:disable
-  'no':
-    languageName: Norsk
-    contentDir: content/no
-    title: Gulldoks
-    params:
-      description: Docsy er operativsystem for skyen
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  fa:
-    languageDirection: rtl
-    languageName: "فارسی (Persian)"
-    contentDir: content/fa
-    title: "اسناد گلدی"
-    params:
-      description: "یک نمونه برای پوسته داکسی"
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
-  # cSpell:enable
 
 markup:
   goldmark:
@@ -123,20 +93,20 @@ params:
   url_latest_version: https://cohabes.github.io/multiPhysicsFoamDocs/
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/CoHabes/multiPhysicsFoamDocs
+  github_repo: https://github.com/hmarschall/multiRegionFoam
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-  github_project_repo: https://github.com/CoHabes/multiPhysicsFoamDocs
+  # github_project_repo: ""
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: master
+  github_branch: dev
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
-  gcs_engine_id: d72aa9b2712488cc3
+  # gcs_engine_id: d72aa9b2712488cc3
 
   # Enable Lunr.js offline search
   offlineSearch: false
@@ -145,8 +115,8 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2018
+    authors: Constantin Habes
+    from_year: 2025
 
   # User interface configuration
   ui:
